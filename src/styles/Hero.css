@@ -121,7 +121,7 @@
 .image-frame {
   position: relative;
   width: 320px;
-  height: 320px;
+  height: 380px;
   border-radius: var(--radius-lg);
   padding: 8px;
   background: linear-gradient(135deg, var(--primary-purple) 0%, var(--accent-pink) 100%);
@@ -132,6 +132,7 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: center top;
   border-radius: calc(var(--radius-lg) - 4px);
   background: var(--bg-secondary);
 }
@@ -191,6 +192,6 @@
 
   .image-frame {
     width: 270px;
-    height: 270px;
+    height: 330px;
   }
 }
