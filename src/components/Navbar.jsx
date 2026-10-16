@@ -21,7 +21,7 @@ export const Navbar = () => {
       <div className="container navbar-container">
         <a href="#hero" onClick={(e) => handleNavClick(e, '#hero')} className="navbar-logo">
           <Code className="logo-accent" size={24} />
-          <span>Sakthi<span className="gradient-text">.dev</span></span>
+          <span>Sakthy<span className="gradient-text"> Sabarish S</span></span>
         </a>
 
         <ul className={`navbar-menu ${mobileOpen ? 'mobile-open' : ''}`}>

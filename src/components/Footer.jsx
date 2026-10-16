@@ -19,7 +19,7 @@ export const Footer = () => {
           <div className="footer-brand">
             <a href="#hero" onClick={(e) => { e.preventDefault(); handleScrollTop(); }} className="footer-logo">
               <Code className="logo-accent" size={22} />
-              <span>Sakthi<span className="gradient-text">.dev</span></span>
+              <span>Sakthy<span className="gradient-text"> Sabarish S</span></span>
             </a>
             <p className="footer-tagline">
               {PERSONAL_INFO.tagline}

@@ -45,7 +45,9 @@ export const Contact = () => {
               </div>
               <div>
                 <div className="contact-info-title">Phone Number</div>
-                <div className="contact-info-value">{PERSONAL_INFO.phone}</div>
+                <a href={`tel:${PERSONAL_INFO.phone}`} className="contact-info-value">
+                  {PERSONAL_INFO.phone}
+                </a>
               </div>
             </div>
 

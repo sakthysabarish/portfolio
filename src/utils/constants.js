@@ -1,12 +1,12 @@
 // src/utils/constants.js
 
 export const PERSONAL_INFO = {
-  name: "Sakthi Sabarish",
+  name: "Sakthy Sabarish S",
   title: "Software Engineer & Full Stack Web Developer",
   tagline: "Building responsive, modern, and scalable web applications with high-performance code.",
   bio: "Passionate Full Stack Developer specializing in modern web technologies including React, JavaScript ES6+, Java, Python, and Node.js. Dedicated to clean code, sleek user experience, and continuous learning.",
-  email: "sakthysabarish.dev@gmail.com",
-  phone: "+91 98765 43210",
+  email: "sabarishs797@gmail.com",
+  phone: "9677453018",
   location: "India",
   github: "https://github.com/sakthysabarish",
   linkedin: "https://linkedin.com/in/sakthysabarish",

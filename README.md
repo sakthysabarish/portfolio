@@ -1,4 +1,4 @@
-# Sakthi Sabarish - Portfolio Website
+# Sakthy Sabarish S - Portfolio Website
 
 A modern, responsive, and high-performance developer portfolio built with React, Vite, Framer Motion, and CSS Variables.
 
